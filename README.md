@@ -1,4 +1,4 @@
-# Multi-Class-LLM-Guardrail
+
 ## Sentinel-AI: Multi-Class LLM Guardrail
 
 Sentinel-AI is a proactive security gateway designed to intercept, analyze, and classify user prompts before they reach a Large Language Model (LLM). Built for the 2026 security landscape, it moves beyond simple "keyword blocking" to deep semantic understanding of intent.
